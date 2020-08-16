@@ -1,10 +1,11 @@
 # node.js_bootcamp_maximillian-lecture
 
-### URL
+# Side Notes
+- URL
+- DENO.js 빼고 다 봄. 당장 쓸게 아니라서..
+- [Course URL](https://www.udemy.com/course/nodejs-the-complete-guide/learn/)
 
-[Course URL](https://www.udemy.com/course/nodejs-the-complete-guide/learn/)
 
-### DENO.js 빼고 다 봄. 당장 쓸게 아니라서..
 
 [node.js Basic](https://www.notion.so/node-js-Basic-ded70597132f4a23a86e94b70b953937)
 
